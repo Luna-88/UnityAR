@@ -1,3 +1,8 @@
+**/Assets/Plugins/iOS
+**/Assets/Wikitude/Samples/Scenes/Instant Tracking - Simple.unity
+**/Assets/Wikitude/Samples/Scenes/Instant Tracking - Simple.unity.meta
+**/Assets/Plugins/iOS/WikitudeSDK.framework/WikitudeSDK
+
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
